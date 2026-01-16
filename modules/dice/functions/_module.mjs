@@ -34,6 +34,7 @@ export {default as ifThenElse} from './conditional/ifThenElse.mjs';
 export {default as ifNull} from './conditional/ifNull.mjs';
 export {default as _if} from './conditional/if.mjs';
 export {default as ranges} from './conditional/ranges.mjs';
+export {default as test} from './conditional/test.mjs';
 
 /* Utility */
 export {default as lookup} from './utility/lookup.mjs';
