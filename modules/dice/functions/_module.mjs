@@ -33,6 +33,7 @@ export {default as unsignedRightShift} from './bitwise/unsignedRightShift.mjs';
 export {default as ifThenElse} from './conditional/ifThenElse.mjs';
 export {default as ifNull} from './conditional/ifNull.mjs';
 export {default as _if} from './conditional/if.mjs';
+export {default as ranges} from './conditional/ranges.mjs';
 
 /* Utility */
 export {default as lookup} from './utility/lookup.mjs';
