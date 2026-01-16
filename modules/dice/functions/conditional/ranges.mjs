@@ -4,7 +4,3 @@ export default function ranges() {
     if (roll >= arguments[i] && roll <= arguments[i+1])
       {return(arguments[i+2])};}
 }
-
-Math.ranges = function() {
-  
-}
